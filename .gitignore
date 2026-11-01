@@ -1,0 +1,29 @@
+# Delphi - arquivos compilados
+*.dcu
+*.exe
+*.bpl
+*.dcp
+*.map
+*.drc
+*.rsm
+Win32/
+Win64/
+__history/
+__recovery/
+
+# Delphi - arquivos locais da IDE
+*.identcache
+*.dproj.local
+*.dsk
+*.~*
+*.stat
+*.ddp
+*.local
+
+# Backups e temporarios
+*- Copia*
+*.rar
+RCa*
+RDa*
+Thumbs.db
+.DS_Store
